@@ -1,6 +1,6 @@
 # The broken windows and burning cars of software development
 
-It does not matter if you are 1 or 50 years into your developer carreer.
+It does not matter if you are 1 or 50 years into your developer career.
 The truth is, you might be still responsible for bad code written in 
 companies, you no longer work for.
 
