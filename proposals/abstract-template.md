@@ -1,6 +1,19 @@
 This template is based on the awesome blogpost by Niall Merrigan called "Make me an offer I can't refuse – Writing an abstracts for a CFP":
 https://blog.ndcconferences.com/make-me-an-offer-i-cant-refuse-writing-an-abstracts-for-a-cfp/
 
+TODOs
+* Setting the scene
+* Learning objectives
+* Level and target audience
+* Additional infos (required knowledge / hardware / software)
+* Does the text contain
+  * Field: for example "Web Development"
+  * (optionally) subfield: for example "Web Security"
+  * Tech Stack: for example "C# and ASP.NET Core"
+  * Slides only (or Live Coding or something else)
+
+---
+
 # Title of the Talk
 
 ## First paragraph / Setting the scene
