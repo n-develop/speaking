@@ -8,5 +8,5 @@ and how dependency injection and other techniques will help you write testable c
 
 This talk is rated level 200-300 with a target audience of software developers.
 
-It is assumed, that you have working knowledge of software development and a basic understanding of unit testing. 
+It is assumed, that you have a working knowledge of software development and a basic understanding of unit testing. 
 Code samples are written in C# and should be accessible to most programmers.
