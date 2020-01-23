@@ -1,4 +1,4 @@
-# Featuremanagement with examples in .NET 
+# Feature management with examples in .NET 
 
 Continous Integration and Continous Delivery are getting more and more popular. There are companies who will the new employees push
 changes to production on Day 1. Sounds easy, doesn't it? But if every commit/merge to "master" leads to an update on production,
