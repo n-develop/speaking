@@ -1,7 +1,7 @@
 # Bio
 
 Lars Richter is a .NET developer located in Hamburg, Germany. He loves working with code. It doesn't matter if it's a greenfield project or a legacy codebase. 
-He is passionate about clean code, software craftsmanship, unit testing and all thing .NET .
+He is passionate about clean code, software craftsmanship, unit testing and all things .NET .
 
 Lars started his career in 2007 and learned to love the .NET-Framework right away.
 
