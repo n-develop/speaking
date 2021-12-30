@@ -1,12 +1,7 @@
 # Real-Time Communication Made Easy - Eine Einführung in SignalR
 
-Echtzeitkommunikation ist aus den meisten Anwendungen heute nicht mehr wegzudenken. Spätestens dann, wenn mehrere Benutzer zeitgleich an etwas 
-arbeiten, ist der Datenaustausch in Echtzeit die Grundvoraussetzung für eine reibungslose User-Experience. Aber auch Chats, Games oder Monitoring-Dashboards sind klassische Anwendungsfälle mit harten Echtzeit-Anforderungen.
+Echtzeitkommunikation ist aus den meisten Anwendungen heute nicht mehr wegzudenken. Spätestens dann, wenn mehrere Benutzer zeitgleich an etwas arbeiten, ist der Datenaustausch in Echtzeit die Grundvoraussetzung für eine reibungslose User-Experience. Aber auch Chats, Games oder Monitoring-Dashboards sind klassische Anwendungsfälle mit harten Echtzeit-Anforderungen.
 
-In diesem Vortrag schauen wir uns den Aufbau und die Einsatzgebiete  von "ASP.NET Core SignalR" an. 
-Um zu verdeutlichen, wie leicht es ist SignalR in .NET-Webprojekten einzusetzen, wird im Live-Coding ein konkretes Beispiel programmiert.
-Die server-seitige Implementierung wird mit ASP.NET und C# umgesetzt. 
-Das Frontend wird mit "Vanilla JavaScript", also ohne Frameworks wie Angular, React oder Vue.js entwickelt. 
-Damit die Teilnehmer maximal praxisnahen Input aus dem Vortrag bekommen, werden nur wenige Slides für die Einführung verwendet und der Rest der Zeit mit Live-Coding verbracht.
+In diesem Vortrag schauen wir uns den Aufbau und die Einsatzgebiete  von "ASP.NET Core SignalR" an. Um zu verdeutlichen, wie leicht es ist SignalR in NET-Webprojekten einzusetzen, wird im Live-Coding ein konkretes Beispiel programmiert. Die server-seitige Implementierung wird mit ASP.NET und C# umgesetzt. Das Frontend wird mit "Vanilla JavaScript", also ohne Frameworks wie Angular, React oder Vue.js entwickelt. Damit die Teilnehmer maximal praxisnahen Input aus dem Vortrag bekommen, werden nur wenige Slides für die Einführung verwendet und der Rest der Zeit mit Live-Coding verbracht.
 
 Es wird vorausgesetzt, dass die Teilnehmer Grundkenntnisse in der Softwareentwicklung mit ASP.NET (Core) haben. Der Code während des Live-Codings wird in C# und JavaScript geschrieben, wird dennoch aber auch für interessierte Entwickler ohne C#-Kenntnisse zugänglich sein.

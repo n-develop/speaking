@@ -9,3 +9,7 @@ His current focus is on code quality. Static code analysis, unit and integration
 After all, code quality is a key factor in the development of maintainable software systems.
 
 Lars occasionally speaks at conferences and local meetups. 
+
+--- german ---
+
+"iOS developer by day, .NET developer by night" trifft es wohl am besten. Lars Richter ist iOS-Developer bei der Parship Group in Hamburg und leidenschaftlicher .NET-Entwickler. Aber egal ob Swift oder C#, Themen wie Clean Code, Software Craftsmanship und Unit Testing stehen dabei immer im Fokus.

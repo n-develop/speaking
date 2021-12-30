@@ -13,3 +13,14 @@ The target architecture will be a Vue.js-based single-page application and a lig
 
 It is assumed, that you have basic knowledge of software development with ASP.NET. Some Vue.js knowledge would be helpful but is not strictly necessary.
 Code samples are written in C# and JavaScript and should be accessible to most programmers. 
+
+
+---
+
+Die meisten Entwickler haben regelmäßig mit Legacy-Code zu tun. Und meistens gibt es Pläne für einen "Big Bang"-Rewrite. Aber in den meisten Fällen bleibt der Plan für lange Zeit ein Plan. "Es ist billiger, diesen Bug zu beheben oder dieses Feature in der alten Codebasis hinzuzufügen. Der Rewrite erfolgt dann später" ist der Satz, den wir alle nur zu gut kennen.
+
+Aber es gibt eine Möglichkeit, unsere alten MVC-Anwendungen schrittweise auf eine moderne Architektur umzustellen. Alles, was wir dazu brauchen, ist ein einfach zu bedienendes Frontend-Framework wie Vue.js.
+
+In diesem Vortrag werden wir sehen, wie wir unsere alten ASP.NET MVC Anwendungen auf eine moderne Architektur migrieren können, ohne dass unsere Kunden etwas davon merken. Die Zielarchitektur wird eine Vue.js-basierte Single-Page-Application und eine leichtgewichtige .NET 6 Web API sein.
+
+Teilnehmer sollten Grundkenntnisse in der Entwicklung mit ASP.NET haben. Einige Vue.js-Kenntnisse wären hilfreich, sind aber nicht notwendig. Die Codebeispiele sind in C# und JavaScript geschrieben und sollten für die meisten Entwickler zugänglich sein. 
